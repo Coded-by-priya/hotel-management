@@ -102,26 +102,42 @@ HOTEL-MANAGEMENT-SYSTEM/
 
 1. Clone the Repository :
 git clone https://github.com/your-username/hotel-management.git
+
 cd hotel-management
 
 2. Backend Setup :
+   
     cd backend
+   
     npm install (Dependencies)
 
    i. Install Dependencies :
+   
         - express
+   
         - mysql2
+   
         - sequelize
+   
         - dotenv
+   
         - cors
+   
         - bcryptjs
+   
         - jsonwebtoken
+   
         - nodemon
+   
         - exceljs
+   
         - express-validator
+   
         - body-parser
+   
 
   ii. Create a .env file inside backend/ with :
+  
        DB_HOST=localhost
        DB_USER=root
        DB_PASSWORD=yourpassword
