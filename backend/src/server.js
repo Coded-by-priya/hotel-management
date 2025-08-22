@@ -2,7 +2,7 @@
 // Purpose: Main entry point for the Hotel Management backend API, sets up Express server, connects to DB, and defines global routes
 
 require('dotenv').config();
-const express = require('express'); 
+const express = require('express');
 const cors = require('cors');
 const { connectDB, sequelize } = require('./config/db');
 const Room = require('./models/Room');
@@ -12,6 +12,7 @@ const roomRoutes = require('./routes/roomRoutes');
 const bookingRoutes = require('./routes/bookingRoutes');
 const adminRoutes = require('./routes/adminRoutes');
 const invoiceRoutes = require('./routes/invoiceRoutes');
+const seedRooms = require("./seed/seedRooms"); 
 
 const app = express();
 
@@ -37,8 +38,9 @@ app.get('/api/test', (req, res) => {
 // Connect to MySQL
 connectDB().then(() => {
   // Sync DB models
-  sequelize.sync({force: true}).then(() => {
-    console.log('📦 All models synced with database');
+  sequelize.sync({ force: false }).then(async () => {
+    console.log("✅ Database synced");
+    await seedRooms(); // ✅ auto-run seeder ONCE
   });
 });
 
