@@ -101,11 +101,12 @@ HOTEL-MANAGEMENT-SYSTEM/
 ## Project Installation & Setup
 
 1. Clone the Repository :
-git clone https://github.com/your-username/hotel-management.git
 
-cd hotel-management
+   git clone https://github.com/your-username/hotel-management.git
+   
+   cd hotel-management
 
-2. Backend Setup :
+3. Backend Setup :
    
     cd backend
    
@@ -146,16 +147,20 @@ cd hotel-management
        PORT=5000
 
   iii. Run Backend : 
+  
         npm run dev
 
    iv. Access app at :
         http://localhost:5000
  
 3. Frontend Setup :
+   
     cd frontend
+   
     npm install (Dependencies)
 
    i. Install Dependencies :
+   
         - react
         - react-dom
         - react-router-dom
@@ -168,7 +173,8 @@ cd hotel-management
         - react-scripts
         - prop-types
 
-   ii. Run Frontend : 
+   ii. Run Frontend :
+   
         npm start
 
   iii. Access app at :
@@ -178,14 +184,19 @@ cd hotel-management
 ## App Usage Instructions
 
  • Login/SignUp with your credentials as admin/staff.
+ 
  • View/Add available rooms on the Rooms page.
+ 
  • Book a room using the booking form.
+ 
  • Manage bookings: check-in, check-out, or cancel.
+ 
  • Export booking logs as Excel. (Admin Only)
+ 
  • Check dashboard stats to monitor occupancy. (Admin Only)
 
 
  ## Author
+ 
 Made by Priyanshi Bilodiya
-
 📫 bilodiyapriyanshhi26@gmail.com
