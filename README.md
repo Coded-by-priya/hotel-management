@@ -7,11 +7,17 @@ This project helps manage hotel rooms, bookings, and related operations with a c
 ## Features
 
 • User login System and JWT authentication
+
 • Room management (view, add, update, delete rooms)
+
 • Booking management (Book rooms, check-in/check-out, cancel bookings)
+
 • Booking list with Active, Past and Cancelled Bookings
+
 • Dashboard stats: total rooms, occupancy rate
+
 • Calculation & invoice management
+
 • Booking logs export (Excel)
 
 ## Tech Stack
