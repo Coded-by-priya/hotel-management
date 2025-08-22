@@ -3,6 +3,7 @@
 A full-stack hotel management system built with React (frontend) and Node.js + Express + MySQL (backend).
 This project helps manage hotel rooms, bookings, and related operations with a clean and responsive interface.
 
+---
 
 ## Features
 
@@ -20,6 +21,8 @@ This project helps manage hotel rooms, bookings, and related operations with a c
 
 • Booking logs export (Excel)
 
+---
+
 ## Tech Stack
 
 • Frontend :- React, Material-UI
@@ -32,6 +35,7 @@ This project helps manage hotel rooms, bookings, and related operations with a c
 
 • Other Tools :- Git, VS Code, REST API
 
+---
 
 ## API Endpoints
 
@@ -51,9 +55,11 @@ This project helps manage hotel rooms, bookings, and related operations with a c
 
 • GET /api/bookings/export
 
+---
 
 ## Folder Structure 
 
+```text
 HOTEL-MANAGEMENT-SYSTEM/
 │
 ├── backend/
@@ -97,6 +103,7 @@ HOTEL-MANAGEMENT-SYSTEM/
 │
 └── README.md
 
+---
 
 ## Project Installation & Setup
 
@@ -180,6 +187,7 @@ HOTEL-MANAGEMENT-SYSTEM/
    iii. Access app at :
         http://localhost:3000
 
+---
 
 ## App Usage Instructions
 
@@ -195,6 +203,7 @@ HOTEL-MANAGEMENT-SYSTEM/
  
  • Check dashboard stats to monitor occupancy. (Admin Only)
 
+---
 
  ## Author
  
