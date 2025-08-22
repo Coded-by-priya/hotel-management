@@ -137,7 +137,7 @@ HOTEL-MANAGEMENT-SYSTEM/
         - body-parser
    
 
-  ii. Create a .env file inside backend/ with :
+   ii. Create a .env file inside backend/ with :
   
        DB_HOST=localhost
        DB_USER=root
@@ -146,7 +146,7 @@ HOTEL-MANAGEMENT-SYSTEM/
        JWT_SECRET=your_secret_key
        PORT=5000
 
-  iii. Run Backend : 
+   iii. Run Backend : 
   
         npm run dev
 
@@ -177,7 +177,7 @@ HOTEL-MANAGEMENT-SYSTEM/
    
         npm start
 
-  iii. Access app at :
+   iii. Access app at :
         http://localhost:3000
 
 
