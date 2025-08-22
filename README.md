@@ -102,6 +102,7 @@ HOTEL-MANAGEMENT-SYSTEM/
 │   └── package.json
 │
 └── README.md
+```
 
 ---
 
