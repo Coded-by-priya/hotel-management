@@ -23,22 +23,34 @@ This project helps manage hotel rooms, bookings, and related operations with a c
 ## Tech Stack
 
 • Frontend :- React, Material-UI
+
 • Backend :- Node.js, Express
+
 • Database :- MySQL with Sequelize ORM
+
 • Authentication :- JWT, bcryptjs
+
 • Other Tools :- Git, VS Code, REST API
 
 
 ## API Endpoints
 
 • POST /api/auth/login
+
 • POST /api/auth/register
+
 • GET /api/rooms
+
 • POST /api/rooms
+
 • GET /api/bookings
+
 • POST /api/bookings
+
 • GET /api/bookings/stats
+
 • GET /api/bookings/export
+
 
 ## Folder Structure 
 
@@ -84,6 +96,7 @@ HOTEL-MANAGEMENT-SYSTEM/
 │   ├── package.json
 │
 └── README.md
+
 
 ## Project Installation & Setup
 
@@ -145,6 +158,7 @@ cd hotel-management
   iii. Access app at :
         http://localhost:3000
 
+
 ## App Usage Instructions
 
  • Login/SignUp with your credentials as admin/staff.
@@ -154,6 +168,8 @@ cd hotel-management
  • Export booking logs as Excel. (Admin Only)
  • Check dashboard stats to monitor occupancy. (Admin Only)
 
+
  ## Author
 Made by Priyanshi Bilodiya
+
 📫 bilodiyapriyanshhi26@gmail.com
