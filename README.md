@@ -55,87 +55,46 @@ This project helps manage hotel rooms, bookings, and related operations with a c
 ## Folder Structure 
 
 HOTEL-MANAGEMENT-SYSTEM/
-
 │
-
 ├── backend/
-
 │   ├── invoices/
-
 │   ├── src/
-
-|   |   ├── config/
-
-|   |   |    ├── db.js
-
-|   |   ├── middleware/
-
-|   |   |    ├── authMiddleware.js
-
-|   |   ├── models/
-
-|   |   |    ├── Booking.js
-
-|   |   |    ├── Room.js
-
-|   |   |    ├── User.js
-
-|   |   ├── routes/
-
-|   |   |    ├── adminRoutes.js
-
-|   |   |    ├── authRoutes.js
-
-|   |   |    ├── bookingRoutes.js
-
-|   |   |    ├── invoiceRoutes.js
-
-|   |   |    ├── roomRoutes.js
-
-|   |   ├── server.js
-
+│   │   ├── config/
+│   │   │   └── db.js
+│   │   ├── middleware/
+│   │   │   └── authMiddleware.js
+│   │   ├── models/
+│   │   │   ├── Booking.js
+│   │   │   ├── Room.js
+│   │   │   └── User.js
+│   │   ├── routes/
+│   │   │   ├── adminRoutes.js
+│   │   │   ├── authRoutes.js
+│   │   │   ├── bookingRoutes.js
+│   │   │   ├── invoiceRoutes.js
+│   │   │   └── roomRoutes.js
+│   │   └── server.js
 │   ├── .env
-
-│   ├── package.json
-
+│   └── package.json
 │
-
 ├── frontend/
-
 │   ├── public/
-
 │   ├── src/
-
 │   │   ├── components/
-
-|   |   |   ├── Navbar.js
-
-|   |   |   ├── Login.js
-
-|   |   |   ├── AdminDashboard.js
-
-|   |   |   ├── StaffDashboard.js
-
-|   |   |   ├── Rooms.js
-
-|   |   |   ├── Bookings.js
-
-|   |   |   ├── BookingsList.js
-
-|   |   |   ├── PrivateRoute.js
-
+│   │   │   ├── Navbar.js
+│   │   │   ├── Login.js
+│   │   │   ├── AdminDashboard.js
+│   │   │   ├── StaffDashboard.js
+│   │   │   ├── Rooms.js
+│   │   │   ├── Bookings.js
+│   │   │   ├── BookingsList.js
+│   │   │   └── PrivateRoute.js
 │   │   ├── services/
-
-|   |   |    ├── api.js
-
+│   │   │   └── api.js
 │   │   ├── App.js
-
 │   │   └── index.js
-
-│   ├── package.json
-
+│   └── package.json
 │
-
 └── README.md
 
 
