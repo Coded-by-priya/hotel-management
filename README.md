@@ -79,6 +79,8 @@ HOTEL-MANAGEMENT-SYSTEM/
 │   │   │   ├── bookingRoutes.js
 │   │   │   ├── invoiceRoutes.js
 │   │   │   └── roomRoutes.js
+|   |   ├──seed/
+|   |   |  ├──seedRooms.js
 │   │   └── server.js
 │   ├── .env
 │   └── package.json
