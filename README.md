@@ -57,21 +57,21 @@ This project demonstrates your real-world ability as a full-stack developer.
 
 - Backend
 
-* Node.js
+  Node.js
 
-* Express.js
+  Express.js
 
 - Database
 
-* MySQL
+  MySQL
 
 - Tools
 
-* Postman
+  Postman
 
-* VS Code
+  VS Code
 
-* Git & GitHub
+  Git & GitHub
   
 ---
 
