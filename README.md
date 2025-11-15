@@ -1,40 +1,78 @@
-# Hotel Management System 
+🌐 Hotel Management System
 
-A full-stack hotel management system built with React (frontend) and Node.js + Express + MySQL (backend).
-This project helps manage hotel rooms, bookings, and related operations with a clean and responsive interface.
-
----
-
-## Features
-
-• User login System and JWT authentication
-
-• Room management (view, add, update, delete rooms)
-
-• Booking management (Book rooms, check-in/check-out, cancel bookings)
-
-• Booking list with Active, Past and Cancelled Bookings
-
-• Dashboard stats: total rooms, occupancy rate
-
-• Calculation & invoice management
-
-• Booking logs export (Excel)
+A full-stack web application for hotel booking, room management, and customer handling.
 
 ---
 
-## Tech Stack
+# ✨ Overview
 
-• Frontend :- React, Material-UI
+The Hotel Management System is a modern, clean, and responsive web application designed to streamline hotel operations.
+It includes room listings, booking management, customer data handling, backend APIs, and a MySQL-powered database system.
 
-• Backend :- Node.js, Express
+Built with a full-stack architecture using:
+HTML, CSS, JavaScript, Node.js, Express.js, and MySQL
 
-• Database :- MySQL with Sequelize ORM
+This project demonstrates your real-world ability as a full-stack developer.
 
-• Authentication :- JWT, bcryptjs
+---
 
-• Other Tools :- Git, VS Code, REST API
+## 🚀 Features
 
+🧑‍💻 User Features
+
+- Browse rooms with details and pricing
+
+- Submit booking requests
+
+- Check availability
+
+- Clean, modern UI
+
+- Fully responsive (mobile + tablet)
+
+⚙️ System Features
+
+- Express-based REST APIs
+
+- MySQL-powered database
+
+- Modular backend structure
+
+- Input validation
+
+- Error handling
+
+- Separation of concerns (routes, controllers, config, models)
+
+---
+
+## 🛠️ Tech Stack
+- Frontend
+
+* HTML
+
+* CSS
+
+* JavaScript
+
+- Backend
+
+* Node.js
+
+* Express.js
+
+- Database
+
+* MySQL
+
+- Tools
+
+* Postman
+
+* VS Code
+
+* Git & GitHub
+  
 ---
 
 ## API Endpoints
