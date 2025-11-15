@@ -1,4 +1,4 @@
-🌐 Hotel Management System
+# 🌐 Hotel Management System
 
 A full-stack web application for hotel booking, room management, and customer handling.
 
@@ -49,11 +49,11 @@ This project demonstrates your real-world ability as a full-stack developer.
 ## 🛠️ Tech Stack
 - Frontend
 
-* HTML
+  HTML
 
-* CSS
+  CSS
 
-* JavaScript
+  JavaScript
 
 - Backend
 
