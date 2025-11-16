@@ -126,7 +126,7 @@ HOTEL-MANAGEMENT-SYSTEM/
 ---
 
 ## 🏗️ Architecture
-
+```
 Frontend (HTML/CSS/JS)
         │
         ▼
@@ -134,7 +134,7 @@ Backend API (Node.js + Express)
         │
         ▼
 Database (MySQL)
-
+```
 ---
 
 ## 📡 API Endpoints
@@ -282,6 +282,7 @@ Database (MySQL)
 ---
 
  ## 👩‍💻 Author
-
+```
 Priyanshi Bilodiya
 Email: bilodiyapriyanshhi26@gmail.com
+```
