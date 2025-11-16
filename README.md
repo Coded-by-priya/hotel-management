@@ -239,17 +239,17 @@ Database (MySQL)
 
 ## 📘 App Usage Instructions
 
- • Login/SignUp with your credentials as admin/staff.
+ - Login/SignUp with your credentials as admin/staff.
  
- • View/Add available rooms on the Rooms page.
+ - View/Add available rooms on the Rooms page.
  
- • Book a room using the booking form.
+ - Book a room using the booking form.
  
- • Manage bookings: check-in, check-out, or cancel.
+ - Manage bookings: check-in, check-out, or cancel.
  
- • Export booking logs as Excel. (Admin Only)
+ - Export booking logs as Excel. (Admin Only)
  
- • Check dashboard stats to monitor occupancy. (Admin Only)
+ - Check dashboard stats to monitor occupancy. (Admin Only)
 
 ---
 
