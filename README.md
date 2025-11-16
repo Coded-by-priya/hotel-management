@@ -75,27 +75,7 @@ This project demonstrates your real-world ability as a full-stack developer.
   
 ---
 
-## API Endpoints
-
-• POST /api/auth/login
-
-• POST /api/auth/register
-
-• GET /api/rooms
-
-• POST /api/rooms
-
-• GET /api/bookings
-
-• POST /api/bookings
-
-• GET /api/bookings/stats
-
-• GET /api/bookings/export
-
----
-
-## Folder Structure 
+## 📂Folder Structure 
 
 ```text
 HOTEL-MANAGEMENT-SYSTEM/
@@ -143,10 +123,37 @@ HOTEL-MANAGEMENT-SYSTEM/
 │
 └── README.md
 ```
+---
+
+## 🏗️ Architecture
+
+Frontend (HTML/CSS/JS)
+        │
+        ▼
+Backend API (Node.js + Express)
+        │
+        ▼
+Database (MySQL)
 
 ---
 
-## Project Installation & Setup
+## 📡 API Endpoints
+- GET /api/rooms
+
+  Returns all rooms.
+
+- GET /api/rooms/available
+
+  Checks available rooms.
+
+- POST /api/booking
+
+  Creates a new booking.
+
+  ---
+
+
+## 🛠 Project Installation & Setup
 
 1. Clone the Repository :
 
@@ -154,7 +161,7 @@ HOTEL-MANAGEMENT-SYSTEM/
    
    cd hotel-management
 
-3. Backend Setup :
+2. Backend Setup :
    
     cd backend
    
@@ -230,7 +237,7 @@ HOTEL-MANAGEMENT-SYSTEM/
 
 ---
 
-## App Usage Instructions
+## 📘 App Usage Instructions
 
  • Login/SignUp with your credentials as admin/staff.
  
@@ -246,8 +253,35 @@ HOTEL-MANAGEMENT-SYSTEM/
 
 ---
 
- ## Author
- 
-Made by Priyanshi Bilodiya
+## 🎓 What I Learned
 
-📫 bilodiyapriyanshhi26@gmail.com
+- Building full-stack applications
+
+- Designing REST APIs
+
+- Relational database workflows
+
+- Handling booking logic
+
+- UI/UX fundamentals
+
+- Error handling and clean architecture
+
+---
+
+## 🚀 Future Improvements
+
+- Admin panel
+
+- Authentication system
+
+- Payment integration
+
+- Deployment on Render/Vercel
+
+---
+
+ ## 👩‍💻 Author
+
+Priyanshi Bilodiya
+Email: bilodiyapriyanshhi26@gmail.com
