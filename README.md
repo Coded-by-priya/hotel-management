@@ -253,6 +253,24 @@ Database (MySQL)
 
 ---
 
+## 📷 Screenshots
+
+![Login Page Screenshot](https://github.com/Coded-by-priya/hotel-management/blob/main/screenshot/login.png?raw=true)
+
+![Dashboard Screenshort](https://github.com/Coded-by-priya/hotel-management/blob/main/screenshot/dashboard.png?raw=true)
+
+![Rooms Screenshot](https://github.com/Coded-by-priya/hotel-management/blob/main/screenshot/rooms.png?raw=true)
+
+![Booking Screenshot](https://github.com/Coded-by-priya/hotel-management/blob/main/screenshot/bookings.png?raw=true)
+
+![Room_booking screenshot](https://github.com/Coded-by-priya/hotel-management/blob/main/screenshot/book_room.png?raw=true)
+
+![active_reservation screenshot](https://github.com/Coded-by-priya/hotel-management/blob/main/screenshot/active_reservation.png?raw=true)
+
+![past_reservation screenshot](https://github.com/Coded-by-priya/hotel-management/blob/main/screenshot/past_reservation.png?raw=true)
+
+---
+
 ## 🎓 What I Learned
 
 - Building full-stack applications
