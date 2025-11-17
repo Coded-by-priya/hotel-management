@@ -7,12 +7,10 @@ A full-stack web application for hotel booking, room management, and customer ha
 # ✨ Overview
 
 The Hotel Management System is a modern, clean, and responsive web application designed to streamline hotel operations.
-It includes room listings, booking management, customer data handling, backend APIs, and a MySQL-powered database system.
+It includes room listings, booking management, room allocations, customer data handling, backend APIs, and a MySQL-powered database system.
 
 Built with a full-stack architecture using:
 HTML, CSS, JavaScript, Node.js, Express.js, and MySQL
-
-This project demonstrates your real-world ability as a full-stack developer.
 
 ---
 
